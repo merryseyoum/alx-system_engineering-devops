@@ -1,1 +1,2 @@
-echo -e #!/bin/bash\n chmod -R +111 */
+#!/bin/bash
+ chmod -R +111 */
