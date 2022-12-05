@@ -1,0 +1,1 @@
+echo -e #!/bin/bash\n chmod -R +111 */
