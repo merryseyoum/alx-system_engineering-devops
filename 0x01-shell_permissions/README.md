@@ -1,1 +1,1 @@
-12. More directories
+10. Look in the mirror
